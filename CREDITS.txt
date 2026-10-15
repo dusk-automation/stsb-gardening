@@ -1,0 +1,48 @@
+S.T.S.B Gardening Services: design preview by Dusk
+
+Business's own material
+  Name, logo, wording and contact details: the business's Facebook page,
+    facebook.com/people/STSB/61590838142933 (page name "STSB", East Albury NSW), and the
+    flyer used as its profile picture. Read 15 October 2026.
+    Phones 0405 400 066 (page and flyer) and 0413 781 307 (flyer); email stsbgardening@gmail.com;
+    "We Grow, We Care, We Beautify"; "Let's make your garden beautiful"; "We create green spaces that bring
+    peace, beauty and happiness to your life"; "A beautiful garden is a happy life";
+    "Healthy Garden, Happy Home, Better Tomorrow"; the four values (expert team, quality service,
+    eco friendly, customer satisfaction); the services list (garden design, lawn care, plantation and
+    maintenance, landscaping solutions, terrace garden, garden makeover) plus lawn mowing, gardening and
+    yard clean-up from the page intro.
+  The logo mark (assets/brand/mark.svg) is redrawn by hand as a vector from the flyer; it is close to,
+    not an exact copy of, the original.
+  Job footage and photos (assets/video/job-reel-*.mp4, assets/video/job-reel.jpg, assets/img/job-*.jpg):
+    the 25 second reel posted on the Facebook page on 16 August ("Albury Wodonga").
+    The reel is shown without sound. Facebook's HD copy is VP9/AV1, so it was re-encoded to H.264
+    (720p and 480p) to play on iPhones. The stills are frames from it, cropped below the
+    "Albury Wodonga" caption that is burned into the video.
+
+Stock footage (Mixkit free licence, no attribution required; labelled "Stock footage" on the page)
+  hero-hands.mp4   mixkit.co/free-stock-video/gardener-arranging-the-soil-for-a-plant-43697/
+  hero-trim.mp4    mixkit.co/free-stock-video/lawn-mower-cutting-the-grass-in-the-garden-47172/
+  hero-grass.mp4   mixkit.co/free-stock-video/machine-mowing-the-lawn-7223/
+  Each is a 6.5 second cut, re-encoded (720p and 540p), without sound.
+
+Stock photos (Unsplash licence, free to use; each is labelled "Stock photo" on the page)
+  stock-lawn-mowing.jpg    unsplash.com/photos/YhxOrHGrQQc (Carl Tronders)
+  stock-hedge-trim.jpg     unsplash.com/photos/JB-QHEehcwI (Peter Beukema)
+  stock-garden-maint.jpg   unsplash.com/photos/EkhWxU_pgLo
+  stock-clean-up.jpg       unsplash.com/photos/xsAj4IwTYik
+  stock-leaf-blower.jpg    unsplash.com/photos/20Xibv0RrDo
+  stock-makeover.jpg       unsplash.com/photos/wd3L9AMXcUU
+  stock-landscaping.jpg    unsplash.com/photos/DqxQhT2HsM4
+  stock-courtyard.jpg      unsplash.com/photos/9R75L_zKEKA
+  stock-striped-lawn.jpg   unsplash.com/photos/zXH4Y7bRu3Y
+  stock-turf.jpg           unsplash.com/photos/5xML_2EClnA
+  stock-brick-path.jpg     unsplash.com/photos/aqqx2yrVB2M
+  stock-mulch-bed.jpg      unsplash.com/photos/LF-IjleZgQM
+  stock-wheelbarrow.jpg    unsplash.com/photos/LVJnIiIeyO0
+
+Generated: nothing. Higgsfield is on the free plan with 0 credits and refuses every generation
+  ("Requires basic plan or higher"), so the intro and every effect are coded.
+
+Untouched copies of the business's files are kept outside this folder in client-sites/_originals/stsb/.
+
+Fonts: Playfair Display and Hanken Grotesk, Google Fonts (Open Font License).

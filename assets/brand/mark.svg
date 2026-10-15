@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" role="img" aria-label="S.T.S.B Gardening Services">
+  <defs>
+    <linearGradient id="lf" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#86ad41"/><stop offset="1" stop-color="#40701f"/></linearGradient>
+    <linearGradient id="arc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#4f7f26"/><stop offset=".5" stop-color="#9fc05e"/><stop offset="1" stop-color="#4f7f26"/></linearGradient>
+  </defs>
+  <path d="M18 120 A84 84 0 1 1 182 120" fill="none" stroke="url(#arc)" stroke-width="5" stroke-linecap="round"/>
+  <path d="M100 126 V58" stroke="#40701f" stroke-width="3.6" stroke-linecap="round"/>
+  <path d="M100 86 C82 71 82 47 100 28 C118 47 118 71 100 86Z" fill="url(#lf)"/>
+  <path d="M98 110 C84 120 54 114 41 85 C68 74 92 86 98 110Z" fill="url(#lf)"/>
+  <path d="M102 110 C116 120 146 114 159 85 C132 74 108 86 102 110Z" fill="url(#lf)"/>
+  <path d="M100 82 V38 M96 106 Q72 94 48 87 M104 106 Q128 94 152 87" stroke="#eef3df" stroke-width="1.5" stroke-linecap="round" fill="none" opacity=".7"/>
+  <path d="M66 137 C73 125 88 121 100 124 C112 121 127 125 134 137 C121 145 79 145 66 137Z" fill="#173f1d"/>
+  <g fill="#173f1d">
+    <path id="hand" d="M88 193 C62 184 37 158 26 112 C24 104 31 102 34 108 C40 121 46 131 54 137 C57 131 62 126 67 125 C72 125 73 130 70 134 C76 147 85 158 95 166 C95 176 93 186 88 193Z"/>
+    <path id="fl" d="M35 120 C42 141 53 156 66 165" fill="none" stroke="#f6f7f1" stroke-width="2.2" stroke-linecap="round"/>
+    <use href="#fl" transform="matrix(-1 0 0 1 200 0)"/>
+    <use href="#hand" transform="matrix(-1 0 0 1 200 0)"/>
+  </g>
+</svg>
